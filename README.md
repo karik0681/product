@@ -1,1 +1,1 @@
-# product
+# testnet
